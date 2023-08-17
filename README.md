@@ -1,10 +1,8 @@
 # FullStack_StudentManagement_Application
 ## StudentConnect
-StudentConnect: Full-Stack Student Management Application
-
 StudentConnect is a comprehensive student management application that seamlessly integrates frontend and backend technologies to deliver an efficient and user-friendly solution. Developed using Spring Boot, React, and MongoDB, this application brings together the power of modern web development to streamline student information management.
 
-Features:
+# Features:
 
 Dynamic User Interface: Frontend React provides a dynamic and interactive user interface, enabling users to navigate through features seamlessly and intuitively.
 Efficient Backend Processing: Leveraging the robust capabilities of Spring Boot, the application's backend efficiently handles data processing, storage, and retrieval.
@@ -16,8 +14,8 @@ Technology Stack:
 Frontend: React
 Backend: Spring Boot
 Database: MongoDB
-Benefits:
 
+## Benefits:
 User-Centric Design: StudentConnect prioritizes user experience with a clean and intuitive interface, promoting ease of use for both administrators and students.
 Scalable Architecture: Built on a modern and scalable technology stack, the application can handle increased usage and evolving requirements.
 Real-Time Data Updates: Real-time data synchronization between frontend and backend ensures accurate and up-to-date information for all users.
