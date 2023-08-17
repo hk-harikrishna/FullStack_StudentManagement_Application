@@ -22,4 +22,5 @@ Real-Time Data Updates: Real-time data synchronization between frontend and back
 Secure Data Handling: Spring Boot's security features enhance data protection, ensuring the confidentiality of sensitive student information.
 StudentConnect is a testament to the capabilities of modern full-stack development, merging frontend elegance with backend functionality to create a seamless and efficient student management experience.
 
-![Uploading Screenshot 2023-08-17 195519.png…]()
+![studentconnect](https://github.com/hk-harikrishna/FullStack_StudentManagement_Application/assets/126389081/05b79afa-255f-4aa6-9820-e9e9fb48dd28)
+
