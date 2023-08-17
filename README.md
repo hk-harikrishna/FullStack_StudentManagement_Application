@@ -11,9 +11,9 @@ Full-Stack Synchronization: The synergy between React and Spring Boot enables re
 Comprehensive Student Information: StudentConnect offers a comprehensive platform for managing student data, from enrollment details to academic records and progress tracking.
 Technology Stack:
 
-Frontend: React
-Backend: Spring Boot
-Database: MongoDB
+# Frontend: React
+# Backend: Spring Boot
+# Database: MongoDB
 
 ## Benefits:
 User-Centric Design: StudentConnect prioritizes user experience with a clean and intuitive interface, promoting ease of use for both administrators and students.
